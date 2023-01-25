@@ -1,16 +1,20 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5072AE&height=120&section=header"/>
 
-<!--
-**alexandmag/alexandmag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37B6A7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alexandre+Magno;Tenho+19+anos+e+moro+em+Belo+Horizonte;Estudo+Engenharia+de+Computação+na+PUC+Minas;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+<div align="center">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=alexandmag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
 
-Here are some ideas to get you started:
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img align="center" height="40" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="60" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" height="65" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+      
+          
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5072AE&height=120&section=footer"/>
