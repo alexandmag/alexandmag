@@ -1,25 +1,72 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5072AE&height=120&section=header"/>
+# Olá! Eu sou Alexandre Magno e Araújo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37B6A7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alexandre+Magno;Tenho+20+anos+e+moro+em+Belo+Horizonte;Estudo+Engenharia+de+Computação+na+PUC+Minas;Seja+Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
-<div align="center">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=alexandmag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+### Sobre mim
 
-</div>
+Desenvolvedor de Software apaixonado por tecnologia, com experiência em desenvolvimento web e mobile. Atualmente, estou cursando Engenharia de Computação na PUC Minas e trabalho com tecnologias como **React**, **Angular**, **TypeScript** e **Python**. Tenho experiência em desenvolvimento full stack, integração de sistemas e otimização de aplicações.
+
+### Tecnologias e Ferramentas
+
+- **Frontend:** React.js, AngularJS, TypeScript
+
+- **Backend:** C#, .NET, Node.js
+
+- **Banco de Dados:** SQL Server, MySQL
+
+- **Outros:** Git, Docker, Arquitetura de Software
+
+### Experiência Profissional
+
+- **Engetron (2025 - Presente)** - Desenvolvimento, testes e manutenção de sistemas
+
+- **MicroUniverso (2023 - 2024)** - Desenvolvimento de módulos ERP e aplicações mobile
+
+- **Somicro Informática (2022 - 2023)** - Desenvolvimento e manutenção de sistemas ERP
+
+### Contato
+
+- 📫 **Email:** alexandmagarapro@gmail.com
+
+- 💼 **LinkedIn:** linkedin.com/in/alexandmag
+
+- 📂 **Portfólio:** github.com/alexandmag
+
+#### Sempre aberto para colaborações e novos desafios!
+
+
+------------------
+
 <br>
 
-<div align="center">
-  <img align="center" height="40" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="60" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" height="65" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />             
-</div>
+# Hello! I'm Alexandre Magno e Araújo
 
-  ##
-  
-<div align="center"> 
-  <a align="center" href="https://instagram.com/alexandmag" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a align="center" href="https://www.linkedin.com/in/alexandmag" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### About Me
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5072AE&height=120&section=footer"/>
+Software Developer passionate about technology, with experience in web and mobile development. I am currently pursuing a degree in Computer Engineering at PUC Minas and working with technologies such as **React**, **Angular**, **TypeScript**, and **Python**. I have experience in full-stack development, system integration, and application optimization.
+
+### Technologies and Tools
+
+- **Frontend:** React.js, AngularJS, TypeScript
+
+- **Backend:** C#, .NET, Node.js
+
+- **Database:** SQL Server, MySQL
+
+- **Others:** Git, Docker, Software Architecture
+
+### Professional Experience
+
+- **Engetron (2025 - Present)** - Development, testing, and system maintenance
+
+- **MicroUniverso (2023 - 2024)** - Development of ERP modules and mobile applications
+
+- **Somicro Informática (2022 - 2023)** - Development and maintenance of ERP systems
+
+### Contact
+
+- 📫 **Email:** alexandmagarapro@gmail.com
+
+- 💼 **LinkedIn:** linkedin.com/in/alexandmag
+
+- 📂 **Portfolio:** github.com/alexandmag
+
+#### Always open to collaborations and new challenges!
